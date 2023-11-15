@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34302.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoGit2", "DemoGit2\DemoGit2.csproj", "{E2153459-4375-4099-8901-16625E93DC59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2153459-4375-4099-8901-16625E93DC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2153459-4375-4099-8901-16625E93DC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2153459-4375-4099-8901-16625E93DC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2153459-4375-4099-8901-16625E93DC59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD02A59-7EB9-48F2-8313-CF9015729B4E}
+	EndGlobalSection
+EndGlobal
